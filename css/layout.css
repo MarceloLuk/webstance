@@ -1,0 +1,16 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	color: #555;
+	font: normal 10pt Arial,Helvetica,sans-serif;
+	background: #EFEFEF;
+}
+
+.border-result {
+    border: 1px #CCCCCC solid;
+    -moz-border-radius:10px;
+    width: 400px;
+    height:400px;
+    overflow: auto;
+}
